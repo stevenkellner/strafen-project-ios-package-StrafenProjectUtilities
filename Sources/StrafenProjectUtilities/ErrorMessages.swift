@@ -8,7 +8,7 @@
 import Foundation
 
 /// All error messages
-enum ErrorMessages {
+public enum ErrorMessages {
 
     /// Textfield is empty
     case emptyField
